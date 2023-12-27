@@ -5,7 +5,7 @@
 #
 Name     : pypi-dkimpy
 Version  : 1.1.5
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/08/2b/05298eac3618233edb942e0548a9922dfc294dd075919205d94cc8c5b8ac/dkimpy-1.1.5.tar.gz
 Source0  : https://files.pythonhosted.org/packages/08/2b/05298eac3618233edb942e0548a9922dfc294dd075919205d94cc8c5b8ac/dkimpy-1.1.5.tar.gz
 Summary  : DKIM (DomainKeys Identified Mail), ARC (Authenticated Receive Chain), and TLSRPT (TLS Report) email signing and verification
