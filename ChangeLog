@@ -1,3 +1,7 @@
+2024-07-04 Version 1.1.8
+   - Correctly handle verification of signatures without t= (timestamp) and
+     with x= (expiration); both are optional (LP: 2071892)
+
 2024-06-23 Version 1.1.7
    - Fix error in validate_signature_fields which prevented signature
      expiration from being properly evaluated (LP: #2068937)

@@ -1,5 +1,5 @@
 PKG_NAME := pypi-dkimpy
-URL = https://files.pythonhosted.org/packages/b6/f6/044ac1c96ff31e74cff7c0417f9cb76f86f98a6fb0a95f2f024103f0f39e/dkimpy-1.1.7.tar.gz
+URL = https://files.pythonhosted.org/packages/f0/6f/84e91828186bbfcedd7f9385ef5e0d369632444195c20e08951b7ffe0481/dkimpy-1.1.8.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
